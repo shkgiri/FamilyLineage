@@ -1,15 +1,7 @@
 //Go to https://mermaid.live/  or other website to create PNG/JPEG out of this code. 
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
- mermaid
- mindmap;
+mindmap;
   root((KrishaIyer/Lakshmi Family  Koushika Gotram));
        Mahadevan/Swarnam;
        Kannans appa;
@@ -21,3 +13,4 @@ graph TD;
         Hariharan;
         Sreekandan;
         Radha;
+```
