@@ -8,7 +8,8 @@ mindmap
        Ganapathy
        Shankar Iyer/Chellamal
         Murali Krishnan/Lekshmi
-         Shankar Murali
+         Shankar Murali/Shilpa Shankar
+          Pragati Shankar
          Satish Kumar
         Hariharan
         Sreekandan
