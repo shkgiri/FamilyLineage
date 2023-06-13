@@ -11,7 +11,9 @@ mindmap
          Shankar Murali/Shilpa Shankar
           Pragati Shankar
          Satish Kumar
-        Hariharan
+        Hariharan/Meena
+         Shankar Ganesh
+         Mahadevan
         Sreekandan
         Radha
 ```
