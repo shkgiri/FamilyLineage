@@ -1,6 +1,6 @@
 //Go to https://mermaid.live/  or other website to create PNG/JPEG out of this code. 
 
-
+ ```mermaid
 mindmap
   root((KrishaIyer/Lakshmi Family
   Koushika Gotram))
@@ -14,6 +14,7 @@ mindmap
         Hariharan
         Sreekandan
         Radha
+    ```
         
         ```mermaid
   graph TD;
