@@ -2,8 +2,7 @@
 
  ```mermaid
 mindmap;
-  root((KrishaIyer/Lakshmi Family
-  Koushika Gotram));
+  root((KrishaIyer/Lakshmi Family  Koushika Gotram));
        Mahadevan/Swarnam;
        Kannans appa;
        Ganapathy;
