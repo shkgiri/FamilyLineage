@@ -4,7 +4,7 @@
 mindmap
   root((KrishaIyer/Lakshmi Family  Koushika Gotram))
        Mahadevan/Swarnam
-       Kannans appa
+       HariharaIyer
        Ganapathy
        Shankar Iyer/Chellamal
         Murali Krishnan/Lekshmi
